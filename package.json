@@ -1,0 +1,21 @@
+{
+    "name": "dibolai",
+    "displayName": "dibolai",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dibolai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dibolai-color-theme.json"
+            }
+        ]
+    }
+}
