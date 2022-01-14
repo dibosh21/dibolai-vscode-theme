@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#2b2b2c",
-    "editor.foreground": "#A9B7C6",
+    "editor.foreground": "#8597aa",
     "editorLineNumber.foreground": "#4a4a55",
     "editorIndentGuide.background": "#33333b",
     "editorIndentGuide.activeBackground": "#2b2b2c",
@@ -11,8 +11,16 @@
     "activityBarBadge.foreground": "#ffffff",
     "activityBar.activeBackground": "#33333b",
     "activityBar.foreground": "#108d9e",
+
     "list.activeSelectionForeground": "#108d9e",
     "list.activeSelectionBackground": "#1f1f20",
+    "list.activeSelectionIconForeground": "#caa501",
+
+    "breadcrumb.foreground": "#3f6b69",
+    "breadcrumb.focusForeground": "#8597aa",
+    "breadcrumb.activeSelectionForeground": "#8597aa",
+    "breadcrumbPicker.background": "#37373d",
+
     "activityBar.activeBorder": "#108d9e",
     "activityBar.inactiveForeground": "#414141",
     "activityBar.border": "#33333b",
@@ -27,7 +35,7 @@
     "sideBarSectionHeader.foreground": "#108d9e",
     "sideBarSectionHeader.border": "#242425",
 
-    "foreground": "#A9B7C6",
+    "foreground": "#8597aa",
 
     "focusBorder": "#108d9e",
     "textLink.foreground": "#108d9e",
@@ -35,7 +43,10 @@
     "button.border": "#0e626d",
     "button.hoverBackground": "#108d9e",
     "button.background": "#0e626d",
-    "button.foreground": "#A9B7C6",
+    "button.foreground": "#a5b4c3",
+
+    "terminal.ansiBlue": "#0e626d",
+    "terminal.foreground": "#6b6b70",
 
     "minimap.background": "#242425",
     "minimap.errorHighlight": "#b30000",
